@@ -1,0 +1,16 @@
+cassandra-driver
+futures
+ipdb
+kafka_python
+numpy
+requests
+python_sshtail
+tornado
+kazoo
+psycopg2
+scipy
+scikit_learn
+xxhash
+hiredis
+redis
+ujson
